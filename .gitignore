@@ -1,8 +1,8 @@
 # py4ast
 py4ast
 
-# notebooks
-*.ipynb
-
 # archive
 *.tgz
+
+# checkpoints
+.ipynb_checkpoints/
